@@ -16,18 +16,16 @@ It has the: Input layer, Hidden Layers, Output layer.
 
 The input flows from the Input layer to the Output layer through the hidden layers.
 
-neural_network.png
-
 Kernel Convolution: A process where we take a small grid of numbers & pass them over the whole image transforming it. By using different numbers we can form blurs, edge detection, sharpen etc.,
 
-kernel_convolution_example.png
+
 
 Convolutional Neural Networks CNN's combine traditional Neural Networks and Convolutions.
 
-convolutional_neural_network.jpeg
+
 
 About the Dataset
 Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
 
-fashion-mnist-sprite.png
+
 
